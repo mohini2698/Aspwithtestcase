@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspProject", "AspProject\AspProject.csproj", "{3D7BD1B7-2E0C-441A-AEE7-7269EE236DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTest", "DemoTest\DemoTest.csproj", "{FBBF3ECF-C226-4C62-B0C9-D7BD8D31A049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7BD1B7-2E0C-441A-AEE7-7269EE236DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7BD1B7-2E0C-441A-AEE7-7269EE236DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7BD1B7-2E0C-441A-AEE7-7269EE236DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7BD1B7-2E0C-441A-AEE7-7269EE236DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBF3ECF-C226-4C62-B0C9-D7BD8D31A049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBF3ECF-C226-4C62-B0C9-D7BD8D31A049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBF3ECF-C226-4C62-B0C9-D7BD8D31A049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBF3ECF-C226-4C62-B0C9-D7BD8D31A049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E525742-368B-40C1-BE2E-5FFC320F9DF7}
+	EndGlobalSection
+EndGlobal
